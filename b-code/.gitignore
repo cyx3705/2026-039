@@ -1,0 +1,6 @@
+*.pid
+runs/
+*.log
+__pycache__/
+
+runs-before-f-drive-*/
